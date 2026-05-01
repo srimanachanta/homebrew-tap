@@ -1,8 +1,8 @@
 cask "stasis" do
-  version "0.2.0"
-  sha256 "6bc1829af17303cedbc4ee1ac1a115bffeec7b9770831f2f5e5ebd6eb597aab0"
+  version "0.2.1"
+  sha256 "58a280be2b96c39af9e9f151e6d19a58d6c120919b9d649fce8dc22347a00806"
 
-  url "https://github.com/srimanachanta/Stasis/releases/download/v#{version}/Stasis.dmg"
+  url "https://github.com/srimanachanta/Stasis/releases/download/v#{version}/Stasis.zip"
   name "Stasis"
   desc "Battery management and dashboard for Apple Silicon"
   homepage "https://github.com/srimanachanta/Stasis"
